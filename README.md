@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **halll05/halll05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3> Lin Hall <br> Data Scientist, Researcher</h3>
+<h6> I am a Master of Science in Data Science from East Carolina University in Greenville, North Carolina.<br> Feel free to look around at some of my selected works!</h6>
+  

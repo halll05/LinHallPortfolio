@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<h1 align="center"> <b> Lin Hall <br> </b> Data Scientist, Researcher </h1>
 
-You can use the [editor on GitHub](https://github.com/halll05/LinHallPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Linkedin](https://www.linkedin.com/in/lin-hall/) 
+  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me :wave:
 
-### Markdown
+I am a Master of Science in Data Science candidate at East Carolina University in Greenville, North Carolina. Along with my Data Science studies, I have taken various Computer Science courses. My Master's Thesis titled <i>Human Organ Real-time Localization using HTC Vive Tracking System and Machine Learning Models</i> has resulted in one publication, with two in review. This work has also been presented at the Software Engineering and Data Engineering in 2021, and received finalist for Best Paper.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Technological Skills
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Programming Languages
 
-- Bulleted
-- List
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
+![R](https://img.shields.io/badge/R-R-yellowgreen)
+![C#](https://img.shields.io/badge/C%23-C%23-orange)
 
-1. Numbered
-2. List
+## Selected Projects
 
-**Bold** and _Italic_ and `Code` text
+#### Project 1: Human Organ Real-time Localization using HTC Vive Tracking System and Machine Learning Models
 
-[Link](url) and ![Image](src)
-```
+Virtual reality and machine learning technologies have become focal points for research and development for medical studies in recent years. However, previous studies do not typically use virtual reality and machine learning in tandem. In this study, we propose a framework utilizing both virtual reality and machine learning to predict the localization of human organs in real-time. The HTC Vive Pro virtual reality system, while used originally for entertainment, is a viable, low-cost option for studies requiring precise measurements. Data collected by the virtual reality system is used as inputs for machine learning models for predictions of human organ localization in real-time.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Further, data enhancement methods, such as data normalization and extreme event split, are leveraged to improve machine learning model performance. According to our experimental results, the gradient boosting regressor model performs accurately for almost every direction for either of the two tracker configurations, i.e., linear and triangular. The extreme event split can also improve machine learning performance, especially with rotational data. Overall, this framework is promising to be used as the localization basis for other surgical procedures, as well as other human organs.
 
-### Jekyll Themes
+<i>Human Organ Real-time Localization using HTC Vive Tracking System and Machine Learning Models</i> was the thesis requirement for the Master of Science in Data Science at East Carolina University. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/halll05/LinHallPortfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This research resulted in one publication, with two in review. This work has also been presented at the Software Engineering and Data Engineering in 2021, and received finalist for Best Paper.

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> <b> Lin Hall <br> </b> Data Scientist, Researcher </h1>
+<h1 align="center"> <b> Lin Hall <br> </b> Human Organ Real-time Localization using HTC Vive Tracking System and Machine Learning Models </h1>
 
 [](https://github.com/halll05/halll05/tree/main/HumanOrganReal-timeLocalizationusingHTCViveTrackingSystemandMachineLearningModels) 
   

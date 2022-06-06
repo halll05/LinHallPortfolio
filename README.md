@@ -35,7 +35,7 @@ I am a Master of Science in Data Science candidate at East Carolina University i
 
 ## Selected Projects
 
-#### Project 1: Human Organ Real-time Localization using HTC Vive Tracking System and Machine Learning Models
+#### [Project 1: Human Organ Real-time Localization using HTC Vive Tracking System and Machine Learning Models](https://github.com/halll05/LinHallPortfolio/tree/main/HumanOrganReal-timeLocalizationusingHTCViveTrackingSystemandMachineLearningModels)
 
 Virtual reality and machine learning technologies have become focal points for research and development for medical studies in recent years. However, previous studies do not typically use virtual reality and machine learning in tandem. In this study, we propose a framework utilizing both virtual reality and machine learning to predict the localization of human organs in real-time. The HTC Vive Pro virtual reality system, while used originally for entertainment, is a viable, low-cost option for studies requiring precise measurements. Data collected by the virtual reality system is used as inputs for machine learning models for predictions of human organ localization in real-time.
 

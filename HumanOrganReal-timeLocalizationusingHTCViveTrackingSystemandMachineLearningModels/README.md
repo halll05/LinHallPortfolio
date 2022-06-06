@@ -30,13 +30,13 @@ Further, data enhancement methods, such as data normalization and extreme event 
 
 This research resulted in one publication, with two in review. This work has also been presented at the Software Engineering and Data Engineering in 2021, and received finalist for Best Paper.
 
-## Technological Skills
 
-
-#### Programming Languages Used
+## Programming Languages Used
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
 ![C#](https://img.shields.io/badge/C%23-C%23-orange)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 
 

@@ -32,6 +32,7 @@ I am a Master of Science in Data Science candidate at East Carolina University i
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
 ![R](https://img.shields.io/badge/R-R-yellowgreen)
 ![C#](https://img.shields.io/badge/C%23-C%23-orange)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
 

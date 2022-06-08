@@ -1,7 +1,0 @@
-About Rotational data
-
-X Data Cross Val score: 0.9794114313760612
-
-Y Data Cross Val score: 0.9774919146341148
-
-Z Data Cross Val score: 0.9935966975139643

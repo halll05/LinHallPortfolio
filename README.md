@@ -36,7 +36,7 @@ Further, data enhancement methods, such as data normalization and extreme event 
 
 This research resulted in one publication, with two in review. This work has also been presented at the Software Engineering and Data Engineering in 2021, and received finalist for Best Paper.
 
-#### Project 2: Using Machine Learning To Predict Changes In COVID-19 Related Deaths Using Policy Type
+#### [Project 2: Using Machine Learning To Predict Changes In COVID-19 Related Deaths Using Policy Type] (https://github.com/halll05/LinHallPortfolio/tree/main/COVID19_Stringency)
 
 Since December 2019, coronavirus disease 2019 (COVID-19) has evolved into pandemic, affecting nearly every human life on Earth. Within the United States, COVID-19 has caused state governments to enact policies mitigating the effects of this disease. Machine learning models are an important tool for predicting future events, such as deaths from COVID-19. In this study, several regression models were compared to predict COVID-19 related deaths.
 

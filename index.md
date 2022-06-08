@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> <b> Lin Hall <br> </b> Data Scientist, Researcher, Machine Learning Enthusiast </h1>
+<!-- <h1 align="center"> <b> Lin Hall <br> </b> Data Scientist, Researcher, Machine Learning Enthusiast </h1> -->
   
 
 ## About Me

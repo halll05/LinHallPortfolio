@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> <b> Lin Hall <br> </b> Data Scientist, Researcher </h1>
-
-[Linkedin](https://www.linkedin.com/in/lin-hall/) 
+<h1 align="center"> <b> Lin Hall <br> </b> Data Scientist, Researcher, Machine Learning Enthusiast </h1>
   
 
 ## About Me
 
-I earned my Master of Science in Data Science at East Carolina University in Greenville, North Carolina. Along with my Data Science studies, I have taken various Computer Science courses. My Master's Thesis titled <i>Human Organ Real-time Localization using HTC Vive Tracking System and Machine Learning Models</i> resulted in one publication, with two in review. This work has also been presented at the Software Engineering and Data Engineering in 2021, and received finalist for Best Paper.
+I earned my Master of Science in Data Science at East Carolina University in Greenville, North Carolina. Along with my Data Science studies, I have taken various Computer Science courses. My Master's Thesis titled <i>Human Organ Real-time Localization using HTC Vive Tracking System and Machine Learning Models</i> resulted in one publication, with two in review. This work has also been presented at the Software Engineering and Data Engineering in 2021, and received finalist for Best Paper. Connect with me on [Linkedin](https://www.linkedin.com/in/lin-hall/) 
 
 ## Selected Projects
 

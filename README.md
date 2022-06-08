@@ -44,4 +44,4 @@ The data for this study was collected from the Oxford Covid-19 Government Respon
 
 Since the data is a time series, RepeatedKFold Cross-Validation (5-fold) was utilized. This cross validation technique reduced the risk of overfitting from the data.
 
-Ultimately, government response (stringency) played a large role in the prediction of the datasets. A report was written on this subject, and can be found here.
+Ultimately, government response (stringency) played a large role in the prediction of the datasets. A report was written on this subject, and can be found [here](https://github.com/halll05/LinHallPortfolio/blob/main/COVID19_Stringency/UsingMachineLearningToPredictChangesInCovid19RelatedDeathsUsingPolicyType.pdf).
